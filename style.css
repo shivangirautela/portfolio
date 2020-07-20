@@ -174,7 +174,7 @@ header .navbar ul li a.active::before{
     width:100%;
 }
 
-/*responsive desiging
+
 @media (min-width:320px) and (max-width:724px){
     .education .inner{
     background-size:contain;
@@ -192,4 +192,4 @@ header .navbar ul li a.active::before{
     body{
         width:100%;
     }
-}*/
+}
